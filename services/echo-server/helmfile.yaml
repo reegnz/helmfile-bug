@@ -1,0 +1,8 @@
+repositories:
+  - name: ealenn
+    url: https://ealenn.github.io/charts
+
+releases:
+  - name: echo-server
+    namespace: echo-server
+    chart: ealenn/echo-server
